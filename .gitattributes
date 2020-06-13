@@ -1,0 +1,2 @@
+aug_database_for_seg.zip filter=lfs diff=lfs merge=lfs -text
+Database_newts.zip filter=lfs diff=lfs merge=lfs -text
